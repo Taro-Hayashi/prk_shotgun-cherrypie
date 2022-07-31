@@ -1,4 +1,9 @@
+# This keymap works on 0.9.17+
+
 require "via"
+require "consumer_key"
+
+puts "==== Shotgun CherryPie ===="
 
 kbd = Keyboard.new
 
